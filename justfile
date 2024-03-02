@@ -4,7 +4,7 @@ _default:
 
 # Variables
 output := "out"
-whiskers_cmd := "nix run github:catppuccin/toolbox#whiskers --"
+whiskers_cmd := "whiskers"
 
 # Create the output directory
 setup:
