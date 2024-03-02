@@ -37,8 +37,9 @@
 ## Usage
 
 1. Launch Serenity
-2. Open the start menu
-3. Select the theme from the `Themes` list
+2. Install [the SerenityOS/theming repo](https://github.com/SerenityOS/theming#how-to-use)
+3. Open the start menu
+4. Select the flavour you want to apply from the `Themes` list
 
 ## 💝 Thanks to
 
